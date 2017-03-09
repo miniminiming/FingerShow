@@ -10,6 +10,20 @@
 
   在项目的根build.gradle中加入   maven { url "https://jitpack.io" }
   
+  加在代码块的如下位置
+  
+  allprojects {
+  
+    repositories {
+    
+        jcenter()
+        
+        maven { url "https://jitpack.io" }
+        
+    }
+    
+  }
+  
   在需要引用的module的build.gradle中加入
   compile 'com.github.miniminiming:FingerShow:V2.0'
   
