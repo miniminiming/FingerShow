@@ -1,8 +1,8 @@
 # FingerShow
 给你的项目添加手指触摸特效
 
-![image](https://github.com/miniminiming/FingerShow/tree/master/app/wave1.jpg)
-![image](https://github.com/miniminiming/FingerShow/tree/master/app/wave2.jpg)
+![image](https://github.com/miniminiming/FingerShow/raw/master/app/wave1.jpg)
+![image](https://github.com/miniminiming/FingerShow/raw/master/app/wave2.jpg)
 
 使用步骤如下
 
