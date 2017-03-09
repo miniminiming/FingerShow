@@ -13,7 +13,10 @@
 
 #2.在BaseActivity中调用library中的方法
 
-  在BaseActivity中的onResume方法中调用  ViewUtils.addFingerlayout(this);  即可
+  在BaseActivity中的onResume方法中调用  ViewUtils.addFingerlayout(this);  即可整个
+  项目都具有触摸效果
   
   
-#3.如果某个子页面由于某种问题不想使用特效，那么在该页面的onCreate方法中调用   ViewUtils.requestNoFingerShow(this); 即可
+#3.如果某个子页面由于某种问题不想使用特效
+
+那么在该子页面的onCreate方法中调用   ViewUtils.requestNoFingerShow(this); 即可
