@@ -1,8 +1,8 @@
 # FingerShow
 给你的项目添加手指触摸特效
 
-![image](wave1.jpg)
-![image](wave2.jpg)
+![image](https://github.com/miniminiming/FingerShow/tree/master/app/wave1.jpg)
+![image](https://github.com/miniminiming/FingerShow/tree/master/app/wave2.jpg)
 
 使用步骤如下
 
@@ -12,16 +12,14 @@
   
   加在代码块的如下位置
   
-  allprojects {
-  
+  allprojects {  
     repositories {
     
         jcenter()
         
         maven { url "https://jitpack.io" }
         
-    }
-    
+    }    
   }
   
   在需要引用的module的build.gradle中加入
