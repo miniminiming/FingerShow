@@ -1,6 +1,9 @@
 # FingerShow
 给你的项目添加手指触摸特效
 
+![image](wave1.jpg)
+![image](wave2.jpg)
+
 使用步骤如下
 
 #1.引入library
